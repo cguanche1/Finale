@@ -14,7 +14,11 @@ Materials:
 
 4x Green LED
 
+4x 1kO Resistor
+
 1x Red LED
+
+1x 560O Resistor
 
 1x HiLetgo 5V 650nm 5mW Red Dot Laser Diode
 
