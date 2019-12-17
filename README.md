@@ -4,6 +4,8 @@ This is the final project I created in the Creative Embedded Systems class at Ya
 
 The project's actual final title is LighningBug.
 
+https://youtu.be/NVgLoDToK-k
+
 Conceptually, the project is based on the idea of a camera obscura. It uses a laser mounted to two simple servo motors to draw images on the back wall of the projection box. That back wall is coated with light-reactive paint, and so the laser leaves tracks in the paint that persist for some time after it has hit. 
 
 The laser has four settings; the first three are generative motion patterns that have different internal speeds and thus change the tone of the motion. The fourth is manual control, which is based on the motion of the joystick mounted on the front of the control board. 
