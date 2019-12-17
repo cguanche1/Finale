@@ -34,5 +34,20 @@ Materials:
 
 2x 2'x2'x0.125" Boards of Wood  ($5.00ea)
 
+8x 0.5" Angle Brackets
+
+12x 0.75" Wood Screws
+
+4x 1.5" Bolts
+
+4x Nuts pertaining to above bolts
+
 1x 8fl.Oz. Bottle of FolkArt Glow in the Dark Paint ($5.44)
+
+Excesive Wood Glue and Hot Glue
+
+Ample Wiring
+
+
+
 
