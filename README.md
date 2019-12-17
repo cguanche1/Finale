@@ -50,6 +50,8 @@ Materials:
 
 1x 8fl.Oz. Bottle of FolkArt Glow in the Dark Paint ($5.44)
 
+Black and White Acrylic paint to your desire
+
 Excesive Wood Glue and Hot Glue
 
 Ample Wiring
