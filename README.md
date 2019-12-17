@@ -38,7 +38,7 @@ Materials:
 
 4x 6'x1.5"x0.75" Planks of Wood ($7.44ea)
 
-2x 2'x2'x0.125" Boards of Wood  ($5.00ea)
+3x 2'x2'x0.125" Boards of Wood  ($5.00ea)
 
 8x 0.5" Angle Brackets
 
