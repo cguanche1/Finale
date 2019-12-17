@@ -34,7 +34,7 @@ Materials:
 
 2x SG90 TowerPro MicroServo Motors
 
-6x Blue Blackout Curtains ($9.95 for two)
+6x 29.5"x84" Blue Blackout Curtains ($9.95 for two)
 
 4x 6'x1.5"x0.75" Planks of Wood ($7.44ea)
 
